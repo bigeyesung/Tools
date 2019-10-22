@@ -5,7 +5,7 @@ import operator
 import copy
 
 # jusge miinimum task
-# 
+#  find in range
 def JudgeMinTask(wbs, string_arr):
     l = len(wbs)
     is_MinTask = True
