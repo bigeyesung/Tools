@@ -3,7 +3,7 @@ from operator import itemgetter, attrgetter
 from collections import OrderedDict
 import operator          
 import copy
-# different func
+# different testing
 # jusge miinimum task
 #  find in range
 def JudgeMinTask(wbs, string_arr):
